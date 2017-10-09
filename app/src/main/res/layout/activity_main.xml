@@ -6,4 +6,15 @@
     android:layout_height="match_parent"
     tools:context="com.tangguhjp.ukmcenter.Main">
 
+    <RadioGroup
+        android:layout_width="82dp"
+        android:layout_height="73dp"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="62dp" />
+
+    <RadioGroup
+        android:layout_width="74dp"
+        android:layout_height="54dp"
+        tools:layout_editor_absoluteX="44dp"
+        tools:layout_editor_absoluteY="183dp" />
 </android.support.constraint.ConstraintLayout>
